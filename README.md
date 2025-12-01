@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left">I'm Bo Bo Yan Zaw <br><br>- 🚀 I’m PHP(Laravel) Developer.<br>- 📚 I'm currently learning react<br>- ⚡ In my free time I enjoy watching movies.<br>-.🚀  my hobby is coding</h4>
+<h4 align="left">I'm Bo Bo Yan Zaw <br><br>- 🚀 I’m PHP(Laravel) Developer.<br>- 📚 I'm currently learning react<br>- ⚡ In my free time I enjoy watching movies.<br>-.🚀  My hobby is coding</h4>
 
 ###
 
