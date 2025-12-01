@@ -53,6 +53,9 @@
 ###
 
 <div align="center">
+  ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BoBoYanZawDev&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BoBoYanZawDev&layout=compact&theme=tokyonight)
+
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BoBoYanZawDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <img src="https://streak-stats.demolab.com?user=BoBoYanZawDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
