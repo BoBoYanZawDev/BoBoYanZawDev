@@ -60,8 +60,10 @@
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BoBoYanZawDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
   <!-- <img src="https://streak-stats.demolab.com?user=BoBoYanZawDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BoBoYanZawDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoYanZawDev&layout=compact&theme=radical&langs_count=6" height="170" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=BoBoYanZawDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoBoYanZawDev&layout=compact&theme=radical&langs_count=6" height="170" /> -->
+  ![](https://streak-stats.demolab.com/?user=BoBoYanZawDev&theme=radical&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BoBoYanZawDev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ###
